@@ -9,6 +9,9 @@ class Student
     @name = name
     @grade = grade
     @id = id
-    
+  end
+  
+  def create_table
+    sql =
   
 end
